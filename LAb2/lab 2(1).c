@@ -18,6 +18,7 @@ void calculateMovingAverage(int arr[], int size, int n) {
 }
 
 int main() {
+    printf("hello WOlrd");
     int size, n;
 
     printf("Enter the number of elements: ");
